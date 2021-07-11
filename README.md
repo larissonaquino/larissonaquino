@@ -4,6 +4,6 @@
 
 Brazilian, developer and music lover.
 
-I work mostly as a backend .NET developer, but not limited to. I'm also into front-end, especially with frameworks such as React and Angular - which both I do like -, despite done some projects with it, surely I'm not an expert. 
+I work mostly as a backend .NET developer, but not limited to it. I'm also into front-end, especially with frameworks such as React and Angular - which both I do like -, despite done some projects with it, surely I'm not an expert. 
 
 Always trying to get differents approaches, thinking how to improve something that's already good and learn something new whenever I can.
